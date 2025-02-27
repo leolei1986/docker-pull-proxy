@@ -1,1 +1,1 @@
-langgenius/dify-api:0.15.3 crpi-wyy0w38fs0atzhqg.cn-shenzhen.personal.cr.aliyuncs.com/lei-jian/docker-hub/langgenius/dify-api:0.15.3
+langgenius/dify-api:0.15.3 crpi-wyy0w38fs0atzhqg.cn-shenzhen.personal.cr.aliyuncs.com/lei-jian/langgenius/dify-api:0.15.3
