@@ -1,1 +1,15 @@
-nginx:latest registry.cn-hangzhou.aliyuncs.com/gkzx2024/nginx:latest
+langgenius/dify-api:0.15.3 crpi-wyy0w38fs0atzhqg.cn-shenzhen.personal.cr.aliyuncs.com/lei-jian/docker-hub/langgenius/dify-api:0.15.3
+langgenius/dify-web:0.15.3 crpi-wyy0w38fs0atzhqg.cn-shenzhen.personal.cr.aliyuncs.com/lei-jian/docker-hub/langgenius/dify-web:0.15.3
+langgenius/dify-plugin-daemon:0.0.2-local crpi-wyy0w38fs0atzhqg.cn-shenzhen.personal.cr.aliyuncs.com/lei-jian/docker-hub/langgenius/dify-plugin-daemon:0.0.2-local
+langgenius/dify-sandbox:0.2.10 crpi-wyy0w38fs0atzhqg.cn-shenzhen.personal.cr.aliyuncs.com/lei-jian/docker-hub/langgenius/dify-sandbox:0.2.10
+certbot/certbot crpi-wyy0w38fs0atzhqg.cn-shenzhen.personal.cr.aliyuncs.com/lei-jian/docker-hub/certbot/certbot
+langgenius/qdrant:v1.7.3 crpi-wyy0w38fs0atzhqg.cn-shenzhen.personal.cr.aliyuncs.com/lei-jian/docker-hub/langgenius/qdrant:v1.7.3
+pgvector/pgvector:pg16 crpi-wyy0w38fs0atzhqg.cn-shenzhen.personal.cr.aliyuncs.com/lei-jian/docker-hub/pgvector/pgvector:pg16
+tensorchord/pgvecto-rs:pg16-v0.3.0 crpi-wyy0w38fs0atzhqg.cn-shenzhen.personal.cr.aliyuncs.com/lei-jian/docker-hub/tensorchord/pgvecto-rs:pg16-v0.3.0
+ghcr.io/chroma-core/chroma:0.5.20 crpi-wyy0w38fs0atzhqg.cn-shenzhen.personal.cr.aliyuncs.com/lei-jian/docker-hub/ghcr.io/chroma-core/chroma:0.5.20
+quay.io/oceanbase/oceanbase-ce:4.3.3.0-100000142024101215 crpi-wyy0w38fs0atzhqg.cn-shenzhen.personal.cr.aliyuncs.com/lei-jian/docker-hub/quay.io/oceanbase/oceanbase-ce:4.3.3.0-100000142024101215
+postgres:15-alpine crpi-wyy0w38fs0atzhqg.cn-shenzhen.personal.cr.aliyuncs.com/lei-jian/docker-hub/postgres:15-alpine
+redis:6-alpine crpi-wyy0w38fs0atzhqg.cn-shenzhen.personal.cr.aliyuncs.com/lei-jian/docker-hub/redis:6-alpine
+semitechnologies/weaviate:1.19.0 crpi-wyy0w38fs0atzhqg.cn-shenzhen.personal.cr.aliyuncs.com/lei-jian/docker-hub/semitechnologies/weaviate:1.19.0
+ubuntu/squid:latest crpi-wyy0w38fs0atzhqg.cn-shenzhen.personal.cr.aliyuncs.com/lei-jian/docker-hub/ubuntu/squid:latest
+nginx:latest crpi-wyy0w38fs0atzhqg.cn-shenzhen.personal.cr.aliyuncs.com/lei-jian/docker-hub/nginx:latest
