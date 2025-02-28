@@ -1,2 +1,1 @@
 container-registry.oracle.com/database/free:latest crpi-wyy0w38fs0atzhqg.cn-shenzhen.personal.cr.aliyuncs.com/lei-jian/database/free:latest
-downloads.unstructured.io/unstructured-io/unstructured-api:latest crpi-wyy0w38fs0atzhqg.cn-shenzhen.personal.cr.aliyuncs.com/lei-jian/unstructured-api:latest
