@@ -1,1 +1,4 @@
-container-registry.oracle.com/database/free:latest crpi-wyy0w38fs0atzhqg.cn-shenzhen.personal.cr.aliyuncs.com/lei-jian/database/free:latest
+langgenius/dify-api:1.0.0                 crpi-wyy0w38fs0atzhqg.cn-shenzhen.personal.cr.aliyuncs.com/lei-jian/dify-api:1.0.0
+langgenius/dify-web:1.0.0                 crpi-wyy0w38fs0atzhqg.cn-shenzhen.personal.cr.aliyuncs.com/lei-jian/dify-web:1.0.0
+langgenius/dify-sandbox:0.2.10            crpi-wyy0w38fs0atzhqg.cn-shenzhen.personal.cr.aliyuncs.com/lei-jian/dify-sandbox:0.2.10
+langgenius/dify-plugin-daemon:0.0.3-local crpi-wyy0w38fs0atzhqg.cn-shenzhen.personal.cr.aliyuncs.com/lei-jian/dify-plugin-daemon:0.0.3-local
