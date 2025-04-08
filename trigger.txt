@@ -1,4 +1,4 @@
-langgenius/dify-api:1.0.0                 crpi-wyy0w38fs0atzhqg.cn-shenzhen.personal.cr.aliyuncs.com/lei-jian/dify-api:1.0.0
-langgenius/dify-web:1.0.0                 crpi-wyy0w38fs0atzhqg.cn-shenzhen.personal.cr.aliyuncs.com/lei-jian/dify-web:1.0.0
-langgenius/dify-sandbox:0.2.10            crpi-wyy0w38fs0atzhqg.cn-shenzhen.personal.cr.aliyuncs.com/lei-jian/dify-sandbox:0.2.10
-langgenius/dify-plugin-daemon:0.0.3-local crpi-wyy0w38fs0atzhqg.cn-shenzhen.personal.cr.aliyuncs.com/lei-jian/dify-plugin-daemon:0.0.3-local
+langgenius/dify-api:1.1.3                 crpi-wyy0w38fs0atzhqg.cn-shenzhen.personal.cr.aliyuncs.com/lei-jian/dify-api:1.1.3
+langgenius/dify-web:1.1.3                 crpi-wyy0w38fs0atzhqg.cn-shenzhen.personal.cr.aliyuncs.com/lei-jian/dify-web:1.1.3
+langgenius/dify-sandbox:0.2.11            crpi-wyy0w38fs0atzhqg.cn-shenzhen.personal.cr.aliyuncs.com/lei-jian/dify-sandbox:0.2.11
+langgenius/dify-plugin-daemon:0.0.6-local crpi-wyy0w38fs0atzhqg.cn-shenzhen.personal.cr.aliyuncs.com/lei-jian/dify-plugin-daemon:0.0.6-local
