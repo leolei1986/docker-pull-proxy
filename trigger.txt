@@ -6,7 +6,7 @@
  langgenius/dify-plugin-daemon:0.0.9-local  crpi-wyy0w38fs0atzhqg.cn-shenzhen.personal.cr.aliyuncs.com/lei-jian/dify-plugin-daemon:0.0.9-local
  ubuntu/squid:latest  crpi-wyy0w38fs0atzhqg.cn-shenzhen.personal.cr.aliyuncs.com/lei-jian/squid:latest
  certbot/certbot  crpi-wyy0w38fs0atzhqg.cn-shenzhen.personal.cr.aliyuncs.com/lei-jian/certbot
- nginx:latest  crpi-wyy0w38fs0atzhqg.cn-shenzhen.personal.cr.aliyuncs.com/lei-jian/ nginx:latest 
+ nginx:latest  crpi-wyy0w38fs0atzhqg.cn-shenzhen.personal.cr.aliyuncs.com/lei-jian/nginx:latest 
  semitechnologies/weaviate:1.19.0  crpi-wyy0w38fs0atzhqg.cn-shenzhen.personal.cr.aliyuncs.com/lei-jian/weaviate:1.19.0
  langgenius/qdrant:v1.7.3  crpi-wyy0w38fs0atzhqg.cn-shenzhen.personal.cr.aliyuncs.com/lei-jian/qdrant:v1.7.3
  pgvector/pgvector:pg16  crpi-wyy0w38fs0atzhqg.cn-shenzhen.personal.cr.aliyuncs.com/lei-jian/pgvector:pg16
