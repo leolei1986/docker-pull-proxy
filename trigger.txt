@@ -1,2 +1,2 @@
- downloads.unstructured.io/unstructured-io/unstructured-api:latest  crpi-wyy0w38fs0atzhqg.cn-shenzhen.personal.cr.aliyuncs.com/lei-jian/unstructured-api:latest
-
+downloads.unstructured.io/unstructured-io/unstructured-api:latest  crpi-wyy0w38fs0atzhqg.cn-shenzhen.personal.cr.aliyuncs.com/lei-jian/unstructured-api:latest
+langgenius/dify-plugin-daemon:0.0.9-local  crpi-wyy0w38fs0atzhqg.cn-shenzhen.personal.cr.aliyuncs.com/lei-jian/dify-plugin-daemon:0.0.9-local
