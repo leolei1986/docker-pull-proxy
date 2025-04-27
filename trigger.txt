@@ -1,5 +1,2 @@
- myscale/myscaledb:1.6.4  crpi-wyy0w38fs0atzhqg.cn-shenzhen.personal.cr.aliyuncs.com/lei-jian/myscaledb:1.6.4
- docker.elastic.co/elasticsearch/elasticsearch:8.14.3  crpi-wyy0w38fs0atzhqg.cn-shenzhen.personal.cr.aliyuncs.com/lei-jian/elasticsearch:8.14.3
- docker.elastic.co/kibana/kibana:8.14.3  crpi-wyy0w38fs0atzhqg.cn-shenzhen.personal.cr.aliyuncs.com/lei-jian/kibana:8.14.3
  downloads.unstructured.io/unstructured-io/unstructured-api:latest  crpi-wyy0w38fs0atzhqg.cn-shenzhen.personal.cr.aliyuncs.com/lei-jian/unstructured-api:latest
 
