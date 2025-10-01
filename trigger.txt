@@ -1,1 +1,1 @@
-ubuntu:22.04  crpi-wyy0w38fs0atzhqg.cn-shenzhen.personal.cr.aliyuncs.com/lei-jian/ubuntu:22.04
+ubuntu:24.04  crpi-wyy0w38fs0atzhqg.cn-shenzhen.personal.cr.aliyuncs.com/lei-jian/ubuntu:24.04
