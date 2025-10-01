@@ -1,1 +1,1 @@
-nvidia/cuda:13.0.1-base-ubuntu24.04 crpi-wyy0w38fs0atzhqg.cn-shenzhen.personal.cr.aliyuncs.com/lei-jian/cuda:13.0.1-base-ubuntu24.04
+nvidia/cuda:12.9.1-cudnn-devel-ubuntu22.04 crpi-wyy0w38fs0atzhqg.cn-shenzhen.personal.cr.aliyuncs.com/lei-jian/cuda:12.9.1-cudnn-devel-ubuntu22.04
